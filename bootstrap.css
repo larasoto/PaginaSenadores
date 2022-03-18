@@ -1,0 +1,32 @@
+nav{
+    border: 2px black solid;
+}
+body{
+   margin: 2rem;
+}
+
+.imagen2{
+position: absolute;
+margin-left: 125vh;
+margin-top: 5vh;
+
+}
+.conten11{
+    width: 110vh;
+
+}
+
+.tablaChica{
+    width: 80%;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-tablas{
+    display: flex;
+    justify-content: space-around;
+}
+
